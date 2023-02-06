@@ -1,6 +1,5 @@
 # food_app
 
-radyalabs test
 
 ## Getting Started
 
