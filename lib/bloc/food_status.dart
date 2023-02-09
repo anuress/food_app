@@ -1,0 +1,1 @@
+enum FoodListStatus {loading, success, error}
