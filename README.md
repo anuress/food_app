@@ -3,10 +3,10 @@
 Simple food list app
 
 
-## Libraries
+### Libraries
 - get_it
 - dio
 - equatable
 
-# State Management
+### State Management
 - bloc
